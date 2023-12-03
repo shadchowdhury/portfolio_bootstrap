@@ -3,9 +3,32 @@ body{
 }
 
 .banner-container{
-    background-color: #CACACA;
+    background-color: #7532FA;
 }
 
 .banner-column{
-    background-color: #8D8D8D;
+    background-color: #282A35;
+}
+
+.about-container{
+    background-color: aquamarine;
+}
+
+.edu-container{
+    background-color: #d6d2d2;
+}
+
+.redtype-color{
+    color: #FB857F;
+}
+
+.circle{
+    background-color:#FB857F;
+    width: 200px;
+    height: 190px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: #7532FA;
 }
