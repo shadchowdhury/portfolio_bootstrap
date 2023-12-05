@@ -40,4 +40,19 @@ body{
 .inner-form:hover{
     background-color: white !important;
 } */
+.a-icon{
+    width: 35px;
+    height: 35px;
+    display: block;
+    background-color: #ffff;
+    color: #262626;
+    padding-top: 1px;
+    font-size: 20px;
+    border-radius: 50%;
+    transition: 0.5s;
+}
 
+.a-icon:hover{
+    background-color: #d31515;
+    color: #ffff;
+}
